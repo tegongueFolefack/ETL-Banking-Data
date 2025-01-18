@@ -1,0 +1,9 @@
+2024-10-05 14:39:46 : Les préliminaires sont terminés. Lancement du processus ETL
+2024-10-05 14:39:46 : Extraction des données terminée. Lancement du processus de transformation
+2024-10-05 14:39:46 : Transformation des données terminée. Lancement du processus de chargement
+2024-10-05 14:39:46 : Données enregistrées dans un fichier CSV
+2024-10-05 14:39:46 : Connexion SQL initiée
+2024-10-05 14:39:46 : Données chargées dans la base de données sous forme de table, exécution de requêtes
+2024-10-05 14:39:46 : Processus terminé
+2024-10-05 14:39:46 : Connexion au serveur fermée
+2024-10-05 14:39:46 : Connexion au serveur fermée
